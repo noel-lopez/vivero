@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1663" height="503" alt="github-banner" src="https://github.com/user-attachments/assets/da0fa71c-24ee-47f0-9ec2-5117de4d296e" />
+  <img src="https://github.com/user-attachments/assets/da0fa71c-24ee-47f0-9ec2-5117de4d296e" alt="Vivero" width="640" />
 </p>
 
 <p align="center">
