@@ -12,9 +12,17 @@ _Avoid_: Source, reference, resource
 The two states of an Inspiration: yet to consume / already consumed.
 _Avoid_: Seen/unseen, read
 
+**`hidden`** (_oculta_):
+An Inspiration manually set aside from the tray, never deleted. Orthogonal to `pending`/`reviewed`.
+_Avoid_: Deleted, removed
+
 **`Idea`** (_Idea_):
 Your conceptual core — "what you want to say" —, with no date.
 _Avoid_: Concept, topic, note
+
+**`active`** (_activa_):
+A derived property of an Idea (not stored): it has work in hand — at least one unpublished Post, or freshly created within a short grace window.
+_Avoid_: Archived (an Idea is never archived)
 
 **`Post`** (_Post_):
 A unit of content for a channel, derived from an Idea and carrying a date. The entity; distinct from the act of publishing and the `published` state.
